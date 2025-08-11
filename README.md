@@ -2,7 +2,7 @@
 Intro & why:
 Welcome to this small project that allows you to download videos from echo360.
 This program requires that you can access the videos in your normal browsing but overcomes the issue that there is no download button.
-This program download the two video streams and the audio stream, then combines them in to a single .mkv file.
+This program downloads two video streams and one audio stream, then combines them in to a single .mkv file.
 
 History:
 I finished university and wanted to make a personal copy of all of the resources that I had access to, just incase access is terminated at some point in the future.
